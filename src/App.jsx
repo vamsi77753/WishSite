@@ -160,11 +160,10 @@ const LETTER_CONTENT = (
     <p className="mb-6 leading-relaxed">
       "Chinna pilla😂", kani appudappudu pedha maatale maatladesthadhi.... Chala
       thelsinattu matured ga... Kani chese panulu anni pilla cheshtale. Yeah
-      thanaki friends unnaru... Even some are boys....  General ga Evaraina ela
-      ante aa age lo abbayilatho Friend ship undakudadha.... Ani anukuntaru....
-      And aa age lo ne ani kadhu general ga ammayilaki evarikaina sare male
-      attention ante istapadatharu so alane thinu kuda....of course Evaraina
-      sight kodithene ga manam baagunnam ani confidence untadhi so undochu le.
+      thanaki friends unnaru...i mean boys lo..... And aa age lo general ga
+      ammayilaki evarikaina sare male attention ante istapadatharu so alane
+      thinu kuda....of course Evaraina sight kodithene ga manam baagunnam ani
+      confidence untadhi so alaane.
       <br />
       <br />
       madam ki chaalane fan base undhi anuko, chalane proposals, chala mandhe
@@ -173,35 +172,29 @@ const LETTER_CONTENT = (
       <br />
       Nen vinnadhani prakaaram madam ki chaala ne pogaru ani.... Full attitude
       bolthe ani. Nen kuda chusa le chinnappude avi anni(chinnappude ante thana
-      2nd standard lo) aa time lo ne chaala pogaru undedhi so adhe maintain
+      3rd standard age lo) aa time lo ne chaala pogaru undedhi so adhe maintain
       chesthundhi emo anukunevadini. And Yeah.. ippudem thakkuva ani kaadhu
-      le... Enthaina baaga gaarabam chesi pencharu ga valla amma and nanna. 
+      le... Enthaina baaga gaarabam chesi pencharu ga valla amma nanna. 
       <br />
       <br />
-      Inka thana vishayaniki Vasthe..... Thana age lo unde confusions
-      chinnavatike attract avvadam edhi ento thelikapodam.....  Inka eemeki
-      alaantivi chaaala ne le.
+      Inka thana vishayaniki Vasthe..... Thana age lo unde confusions and
+      chinnavatike attract avvadam, edhi entoo thelikapodam..... so ivaithe Inka
+      eemeki alaantivi chaaala ne le.
       <br />
       <br />
       Ameku thelidhu nak enni sarlu kopam theppinchedho thanu chese panulaki....
-      Yeah some times they were hurting. she already knows wt they all are....
-      Malli class lu peekali anukotle le nenu😂 bhayapadaku.
+      Yeah some times they were really hurting. she may or may not know wt they
+      all are... But fine. Eeme ela ante okaru edho anukuntaru ani vallakosam
+      thinaki istam unna lekapoina chese rakam anamaata. So adhi Evaraina sare
+      neeku istam lekapothe u don't have to do things. It's ok aa age lo
+      evaraina msg chestheno sight koditheno aa attention baaguntundhi kani
+      manam respond ayye dhani batte mana character ni decide chesestharu. So
+      nuv respond avvakapothe thappuga anukuntaru anukuntav.. kani ala respond
+      aithene thappuga ardhamcheskuntaru...chance ichav anukuntaru.
       <br />
       <br />
-      So eme ela ante okaru edho anukuntaru ani vallakosam thinaki istam unna
-      lekapoina chese rakam anamaata. So adhi Evaraina sare neeku istam
-      lekapothe u don't have to do things. It's ok aa age lo evaraina msg
-      chestheno sight koditheno aa attention baaguntundhi kani manam respond
-      ayye dhani batte mana character ni decide chesestharu. So nuv respond
-      avvakapothe thappuga anukuntaru anukuntav.. kani ala respond aithene
-      thappuga ardhamcheskuntaru...chance ichav anukuntaru.
-      <br />
-      <br />
-      Sarle ika thittindhi chaalu manchi vishyalu maatladukundham.....
-      <br />
-      <br />
-      ^These are all just a little of ur unmatured or confused behaviours
-      anthe...
+      Sarle ivanni neeku ippudu thelusule so chaalu manchi vishyalu
+      maatladukundham.....
     </p>
 
     <h2 className="text-xl font-semibold text-[#C8A2C8] mt-10 mb-4">
@@ -209,28 +202,28 @@ const LETTER_CONTENT = (
     </h2>
     <p className="mb-6 leading-relaxed">
       May be andharu Ane pogaru undochu thanaki kani naadhaggara eppudu
-      chupiyadhu... Anni cheppukuntadhi....inka nene chaala sarlu kopam
+      chupinchadhu... Anni cheppukuntadhi....inka nene chaala sarlu kopam
       theppinchina, edipinchina Opikatho matladthadhi.... She says she feels
-      safe with me. And I am glad for that. She acts cute and reckless with me
-      and that is what makes me to look after her more.
+      safe with me and I am glad for that. She acts cute and reckless with me
+      and that's what makes me to look after her more. And all of this makes me
+      feel like protecting her and to make sure she is safe and never ends up in
+      the wrong hands.
       <br />
       <br />
       And I don't know who else got to see this side of hers but I am glad to
       see that side of hers when she is with me. Sometimes she acts like an
-      older women by making sure whether I am taking care of myself or not. That
-      is actually something I like Abt her, i.e her concern and care.
+      elder women by talking some matured stuff and making sure whether I am
+      taking care of myself or not. That is actually something I like Abt her,
+      i.e her concern and care.
       <br />
       <br />
       Inkaa thanu konni vishayallo clarity undhi ani anukuntadhi...kani adhe
       confused mindset lo untadhi... Like a vishyam lo aina oka conclusion ki
       raadaniki aalochisthundhi. Vaalla gurinchi Veella gurinchi aalochinchi
       vallem anukuntaru veellem anukuntaru ani aalochinchi.... Thinu asal em
-      kaavalanukuntundho marchipodhi. 
-      <br />
-      <br />
-      So evaro happiness kosam dheniki yes cheppaku... Neeku cheppali
-      anipisthene Yes cheppu migilina prathisari try to say NO. Adhi Evvaraina
-      eppudaina ekkadaina.
+      kaavalanukuntundho marchipodhi. So evaro happiness kosam dheniki yes
+      cheppaku... Neeku cheppali anipisthene Yes cheppu migilina prathisari try
+      to say NO. Adhi- Evvaraina eppudaina ekkadaina.
       <br />
       <br />
       Yeah may be konthamandhi parichayam avvagane vallu Elanti vallu anedhi
@@ -251,7 +244,7 @@ const LETTER_CONTENT = (
       NUV asalu nak parichayam avthav ani nen asalu eppudu expect chesi undanu.
       That too parichayam avvadame kaakunda intha close avtham ani aithe kalalo
       kuda anukole. And yeah now I can say one thing that "I am glad that we
-      met" that too when u r in this stage of ur life.... Nake asalu a bochu
+      met" that too when u r in this stage of ur life....And Naake asalu a bochu
       thelidhu but still nuv ala undadam valla it gave me some responsible role
       so that u can really become a best version of urs. 
       <br />
@@ -263,23 +256,25 @@ const LETTER_CONTENT = (
       <br />
       U know I am not much of an open guy. I can't express things exactly how I
       really mean them. So chaala sarlu... the things which were special to u
-      ani cheppaavo, they are same for me too bubi won't express. I still
-      remember the first time we were talking at my home stairs. I still
-      remember the evening we were talking on my terrace. I still remember the
-      chitchats we had in our calls during the nights while everyone is
-      sleeping. I still remember the smile i had on my face after the day we
-      hung out. And bcz of these i got to know u much better.
+      ani cheppaavo, they are same for me as well but i won't express.
+      <br />
+      <br />
+      "I still remember the first time we talked on the stairs of my house. I
+      still remember that evening on my terrace. I still remember our late-night
+      phone calls, whispering and laughing while the whole world was asleep. I
+      still remember the smile that stayed on my face after we hung out a day.
+      And I still remember that empty, missing feeling I had while I was on my
+      way back here."
+      <br />
+      And bcz of these i got to know u much better.
       <br />
       <br />
       Nen neeku cheppevi kaanivvu ninnu anevi kaanivvu avi anni konni cinema
       dialogue lu konni appudukappudu thannukochesthuntayi. So Andhulo ninnu
       hurt chese la konni untayi ani naku thelsu...konni agree avvavu Ani kuda
-      thelusu.....
-      <br />
-      <br />
-      Nen cheppevatlo konni nuv edho thappu chesuntav ani kaadhu....so vaatiki
-      overthink cheyaku. Just oka 3rd person chusthe ela untadho ala
-      cheppinattu. 
+      thelusu.....and Nen cheppevatlo konni nuv edho thappu chesuntav ani
+      kaadhu....so vaatiki overthink cheyaku. Just oka 3rd person chusthe ela
+      untadho ala chepthunnattu. 
       <br />
       <br />
       "Edhi emaina you know wt u are and wt u have done. So evaro edho
@@ -295,31 +290,82 @@ const LETTER_CONTENT = (
       never want to break your trust later.
       <br />
       <br />
-          "" Nuv ee mana parichayanni ela anukuntunnavo pakkanapettu just give a
-      pause for everything.... First try to understand people and world better.
-      Appudu nuv anukunedhi or chesedhi anni.... Clarity tho chesthunnavo ledho
-      idea vasthadhi. Bayata life ki vellaaka u may find a different version of
-      urself and ur mindset might change,opinions can change, maturity levels.
-      Everything ila chaalane thelsukuntav... chusthav....I don’t want you to
-      feel later that you misunderstood your own feelings. I just want you to
-      grow, explore, and then decide anything with full clarity. ""
+          "" Nuv ee mana parichayanni ela anukuntunnavo thelidhu but adhi antha
+      pakkanapettu. I just want you to pause for a moment....First try to
+      understand yourself better… understand people… understand the world. When
+      you step more into real life, you might discover a different version of
+      yourself. Your mindset may change. Your opinions may change. Your maturity
+      will grow. And only then will you know whether what you feel or decide
+      comes from true clarity or just from the moment. The main thing i know and
+      worry abt is "I don’t want you to feel later that you misunderstood your
+      own feelings". I just want you to grow, explore, and then decide anything
+      with full clarity. ""
       <br />
       <br />
       "" And honestly, on my side too, I still have a lot to learn and a lot to
       change within myself. There are many areas in my life where I need to grow
-      and become more mature. I want to understand myself better and gain
-      clarity before giving meaning to anything.So before we define this in any
-      way, let’s both focus on growing, learning, and becoming better, more
-      mature versions of ourselves — where we are emotionally aware enough not
-      to make decisions or mistakes that could lead to regret later. Also,
-      whatever moments or things have happened between us may have happened
-      without much overthinking. They weren’t wrong in a serious way, and they
-      are definitely not something you should ever regret. And maybe this is the
-      right place to pause — without crossing any further limits — so that
-      nothing becomes something that could make you feel regretful later. I take
-      responsibility for making sure your trust is always respected in those
-      matters. I would never want you to feel hurt or misled because of anything
-      between us. ""
+      and become more mature, and yeah i know that even i am not perfect or have
+      any right enough to teach u. Where i also have done things which made u
+      confuse more. So before we define this in any way, let’s both focus on
+      growing, learning, and becoming better, more mature versions of ourselves
+      — where we are emotionally aware enough not to make decisions or mistakes
+      that could lead to regret later. At the same time, I want to be honest
+      about something that worries me. I feel like you became very very open and
+      emotionally close in a very short span of time. That kind of quick
+      attachment scares me a little — not because it’s wrong, but because I
+      don’t want you to make fast emotional decisions and regret them later.
+      Some things need time. You are still at an age where everything feels
+      INTENSE, and sometimes we don’t see things from every angle including me.
+      There is still so much time ahead of you. Until you gain full clarity
+      about what you want, don’t rush into setting emotional boundaries or
+      stepping into situations that might confuse you later. If you ever choose
+      something, let it be after truly thinking it through.
+      <br />
+      <br />
+      Also, emotional connections can sometimes be fragile and even a little
+      destructive if they are built too quickly. When new people enter our
+      lives, when we move to new places, when our environment changes — feelings
+      can change too. Sometimes it’s just about the phase and the time span we
+      are in. What feels intense today may not feel the same tomorrow. That’s
+      why I don’t want you to depend on a moment or a phase while making
+      decisions about something bigger. And when new people come into your life,
+      it’s easy for feelings to get confused, and that confusion can lead to
+      decisions you might regret later. You don’t have to commit to anything or
+      set limits for someone else before you truly understand yourself — your
+      likes, your boundaries, and what really matters to you. Sometimes, without
+      realizing it, we start adjusting ourselves or setting boundaries based on
+      someone else’s expectations, and that can slowly limit us or make us feel
+      detached from who we truly are. What matters most is knowing yourself
+      first and making choices, setting boundaries and limits with others from
+      that clarity, and not from pressure, expectation, or temporary emotions.
+      That’s the real you, and that’s the version I respect and would like to
+      see the most. Whatever moments have happened between us were natural. They
+      weren’t wrong in any serious way, and you should never regret them.If not,
+      maybe this is the right time to pause — without crossing further limits —
+      so that nothing ever turns into something that hurts you later. I take
+      responsibility for protecting your trust on those matters.
+      <br />
+      <br />
+      Every meeting happens for a reason. Every connection carries its own
+      meaning. Some people come into our lives for a short time and drift away.
+      Some return when the time is right and stay forever. Not every connection
+      is meant to be defined immediately. Some are meant to help us grow until
+      the right time arrives. So when someone enters your life, don’t assume
+      that is everything. Think. Understand what it really means. And make wise
+      decisions. Don’t ever see bad experiences as bad luck. Nothing in life
+      happens just to hurt you — everything teaches you something. And I also
+      know that you’ve handled some really tough things in your life on your
+      own, keeping them to yourself when you couldn’t share them with anyone.
+      That makes me so proud of you. Take every experience as a lesson. I am
+      sure one day you will receive exactly what you truly deserve. Never see
+      yourself as someone to whom only bad things happen. Be the girl who can
+      lift her own mood even when no one is around. You may not realize it, but
+      there are people who genuinely care about you. And always remember — your
+      first priority should be you. If there ever comes a situation where you
+      must choose between yourself and someone else, choose yourself. Don’t let
+      third-person opinions control your life. Some advice and temporary
+      motivations can turn your life upside down. Listen, but decide for
+      yourself.
       <br />
       <br />I hope you take the time to learn, explore, and understand the
       things you don’t yet know about yourself — especially your vulnerabilities
@@ -335,50 +381,26 @@ const LETTER_CONTENT = (
       anukuntunnavo.... Ivi ila. Ee process lo manushulu kuda ardhamaipotharu
       le.
       <br />
-      <br />U are still at the age where u don't see things through. Inka chaala
-      time undhi chaala age undhi appudu varaku Elanti boundaries set chesipette
-      golalloki vellaku ala velthunnav anukunte aalochinchi vellu. That's still
-      ur decision. Free ga undu endhuku cheppu yedhava golalu... Asalu neeku em
-      kaavalo ani clarity vachinappudu vati gurinchi oka decision ki vadhuvule.
-      <br />
-      <br />
-      Every meeting happens for a reason, and every connection carries its own
-      meaning. Some people come into our lives for a moment, then drift away for
-      a long time — sometimes they may never cross paths again. sometimes those
-      same people return when the time is right, meant to stay for a lifetime.
-      Not every connection is about timing in the present; some are about growth
-      until the right moment arrives.
-      <br />
-      <br />
-      So okari parichayam ayyaka adhe inka antha ani anukoku...aalochinchu...
-      Edhi ento ani and take better decisions. And don't take any bad
-      experiences or a bad things that happened in your life as some bad luck...
-      Everything is for u to learn something. Try to take everything positively.
-      I am sure that Finally u r going to get wt u really deserve in your life.
-      So be that girl who don't think of herself as some bad luck and only bad
-      things happen to her. Be the girl who can lighten up her mood herself even
-      when no one is there for her. U will have people who really thinks Abt u
-      for sure...u just don't know that there are such people. 
-      <br />
-      <br />
-      Don't forget one thing that is - ur first priority should always be you. I
-      wish u will chose urself over someone if that's a case. And don't involve
-      a 3rd persons opinion in your life bcz some peoples suggestions and there
-      motivations can turn your life upside down.
-      <br />
       <br />
       And finally don't think like u r just a random girl passed in my life. U
       may be appeared unannounced but I can tell u that I am happy being with u
-      in this whole journey and i hope will continue the same.
+      in this whole journey and i hope will continue the same. So don’t worry —
+      I am not saying goodbye or going anywhere. While we go through all of
+      this, I’ll still be here. I won’t leave unless there comes a moment when I
+      have to, and until then, you will always know, as usual, what is happening
+      in my life. The reason is: I don't want the girl I care for to get any
+      harm or any bad person near her. I just care about you and want you to be
+      safe. Sometimes people or situations can give the wrong kind of attention
+      or push you toward choices that aren’t really good for you, and that
+      honestly worries me. This isn’t about judging or controlling you at all—it
+      just comes from care. I want you to feel supported and protected, and I
+      also want to make sure that even I never become a reason for any
+      discomfort or harm in your life.
       <br />
-      <br />I don't want the girl I care for to get any harm or any bad person
-      near her. I just care about you and want you to be safe. Sometimes people
-      or situations can give the wrong kind of attention or push you toward
-      choices that aren’t really good for you, and that honestly worries me.
-      This isn’t about judging or controlling you at all—it just comes from
-      care. I want you to feel supported and protected, and I also want to make
-      sure that even I never become a reason for any discomfort or harm in your
-      life.
+      <br />I know u r confused with whatever that is happening so far,So wait
+      until When you truly know what you want, decisions will feel peaceful
+      instead of heavy. Thank you for understanding me and for being there for
+      me all this time.
     </p>
 
     <h2 className="text-xl font-semibold text-[#C8A2C8] mt-10 mb-4">
@@ -388,25 +410,34 @@ const LETTER_CONTENT = (
       Inka na vishayaniki vasthava.... I don't promise things like u know. But I
       can say that I will be there for u if u need me in any situation that is
       good or bad. U can text me or call me any time u want if you really need
-      me at that point of time in ur life even if we are not in good terms.
-      Ippudu kuda Nenem send off lu ivvatle le... Just idhantha enti ani
-      chincheskokunda just give a pause to all those aalochanalu which might
-      leads u to other confusions and overthinking. Oka time vachinappudu NUV
-      inka ilane or edhaina realise aynappudu neeke thelusthadhi. Until then
-      neeku cheppukovali anipinchukune roju varaku ilaage day to day gola
-      cheppuko....burra thinu....  take advantage of me😂 no worries.
+      me at that point of time in ur life even if we are not in good terms. Oka
+      time vachinappudu Nuvve realise avthav veeditho na nen inni rojulu
+      vegindhi ani. Appudu neeke thelusthadhi. Until then neeku cheppukovali
+      anipinchukune roju varaku ilaage day to day gola cheppuko....burra
+      thinu....  take advantage of me😂 no worries.
       <br />
       <br />
-      Nen mee akkaki kuda cheptha le papam chinna pilla kadha Andhuke idhantha😅
-      ani.... So thanu kuda em anukodhu😜.
+      (kaavali ante Nen mee akkaki kuda cheptha le papam chinna pilla kadha
+      Andhuke idhantha😅 ani.... So thanu kuda em anukodhu😜.)
       <br />
       <br />
       I’m sorry if I’m not always easy to be around. I know I overthink, react
-      too fast at times, and carry my own fears. I’ve also been realizing my own
-      faults recently—things I need to work through and improve. When I say I
-      care, I mean it. When I say I’m trying, I truly am. I’m learning as I go.
-      I never want to hurt you. I’m working on showing up better and being more
-      mindful in how I handle things.
+      too quickly at times, and carry my own fears and insecurities because of
+      jealousy. Lately, I’ve been realizing my own faults — the things I need to
+      work on, the ways I need to grow. But when I say I care, I truly mean it.
+      When I say I’m trying, I really am. I’m also learning as I go. I know I
+      have hurt you many times, but I never wanted to hurt you — it just turned
+      out that way. Still, I am sorry for all of it. I’ve seen a lot in life
+      that has taught me not to trust someone easily. That’s why I don’t keep
+      hopes or expectations on things that show up in my life unless it reaches
+      something extreme. I’ve just learned to be happy with the present, so it
+      doesn’t hurt when I have to let go in the future. But still with u, i have
+      done some of the things may be out of my usual character — even I don’t
+      fully understand why at times. I’m truly sorry if they ever made you feel
+      uncomfortable, uncertain, used, or hurt — that was never my intention. I
+      want you to know that everything I’ve done comes from care, not from
+      trying to take advantage of you. You’ve always meant more to me than that,
+      and I hope you can feel that in my actions.
       <br />
       <br />
       Thank you for understanding me and for being there for me all this time.
@@ -416,7 +447,7 @@ const LETTER_CONTENT = (
       wish for in life and always find reasons to be happy. I wish nothing bad
       ever comes near you, and even if life throws something difficult your way,
       I hope you have the strength to get through it and still smile. You
-      deserve peace, happiness, and good things—always. May this year bring you
+      deserve peace, happiness, and good things—always. May this year brings you
       endless happiness, unforgettable adventures, and dreams that come true.
       May you always feel loved, supported, and celebrated—because you deserve
       it all.
